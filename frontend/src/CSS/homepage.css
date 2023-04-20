@@ -1,0 +1,13 @@
+.post-container {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+.single-post {
+  margin-top: 20px;
+}
+.card-buttons {
+  display: flex;
+  color: #0d6efd;
+  justify-content: space-between;
+  cursor: pointer;
+}
